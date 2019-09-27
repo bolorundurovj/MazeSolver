@@ -8,10 +8,7 @@ namespace Labyrinth2
 {
     class Program
     {
-        //BOLORUNDURO VALIANT-JOSHUA
-        //CPE/16/7824
-        //OLOTUAH NELSON GBENGA
-        //CPE/16/7864
+        
         const string _maze = @"
  1   x    .
  xxx x xx .
